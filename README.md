@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=XML)&nbsp;
 ![XSLT](https://img.shields.io/badge/-XSLT-05122A?style=flat&logo=XSLT)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
-![Spring_Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=Spring_Boot)&nbsp;
+![Spring_Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=Spring-Boot)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache)&nbsp;
-![Apache_maven](https://img.shields.io/badge/-Apache_maven-05122A?style=flat&logo=Apache_maven)&nbsp;
+![Apache_maven](https://img.shields.io/badge/-Apache_maven-05122A?style=flat&logo=Apache-maven)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=NPM)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;
-![Mac](https://img.shields.io/badge/-mac%20os-05122A?style=flat&logo=apple)&nbsp;
+![Mac](https://img.shields.io/badge/-Mac%20OS-05122A?style=flat&logo=apple)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![IOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=ios)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)&nbsp;
@@ -90,10 +90,10 @@ Here are some ideas to get you started:
 ![Zoom](https://img.shields.io/badge/-Zoom-05122A?style=flat&logo=Zoom)&nbsp;
 <br>
 
-- **Extras**:
+<!-- - **Extras**:
 
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
 
 </p>
 
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> -->
 
 <br>
 
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 
 <li>
 <a href="https://linkedin.com/in/nicholas-moralez" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Nick M.-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Nick M.-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 
 <li>
 <a href="mailto:nick4sites@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Nick M.-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Nick M.-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	

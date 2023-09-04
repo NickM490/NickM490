@@ -47,22 +47,31 @@ Here are some ideas to get you started:
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![CSharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=XML)&nbsp;
 ![XSLT](https://img.shields.io/badge/-XSLT-05122A?style=flat&logo=XSLT)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+![Spring_Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=Spring_Boot)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache)&nbsp;
+![Apache_maven](https://img.shields.io/badge/-Apache_maven-05122A?style=flat&logo=Apache_maven)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=NPM)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
@@ -73,7 +82,12 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;
 ![Mac](https://img.shields.io/badge/-mac%20os-05122A?style=flat&logo=apple)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
-![IOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=iOS)&nbsp;
+![IOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=ios)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=Discord)&nbsp;
+![MatterMost](https://img.shields.io/badge/-MatterMost-05122A?style=flat&logo=MatterMost)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=Slack)&nbsp;
+![Skype](https://img.shields.io/badge/-Skype-05122A?style=flat&logo=Skype)&nbsp;
+![Zoom](https://img.shields.io/badge/-Zoom-05122A?style=flat&logo=Zoom)&nbsp;
 <br>
 
 - **Extras**:

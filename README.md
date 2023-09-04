@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **NickM490/NickM490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
+<!-- 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
-- Lifelong Learner
+- Lifelong Learner -->
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - **Languages**:
   ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/C#%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/C Sharp#%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <br>   
     

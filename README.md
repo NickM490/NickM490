@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b align="center"> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <br>
 
@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/nicholas-moralez" target="_blank">
+<a target="_blank" href="https://linkedin.com/in/nicholas-moralez" >
 <img src="https://img.shields.io/badge/linkedin:  Nick M.-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 <br>
 
 <li>
-<a href="mailto:nick4sites@gmail.com" target="_blank">
+<a target="_blank" href="mailto:nick4sites@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Nick M.-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>

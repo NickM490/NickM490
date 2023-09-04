@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ![XML](https://img.shields.io/badge/-XML-05122A?style=flat&logo=XML)&nbsp;
 ![XSLT](https://img.shields.io/badge/-XSLT-05122A?style=flat&logo=XSLT)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -69,6 +70,10 @@ Here are some ideas to get you started:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;
+![Mac](https://img.shields.io/badge/-mac%20os-05122A?style=flat&logo=apple)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
+![IOS](https://img.shields.io/badge/-iOS-05122A?style=flat&logo=iOS)&nbsp;
 <br>
 
 - **Extras**:

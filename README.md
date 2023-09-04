@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 <ul>
 
 <li>
-<a target="_blank" href="https://linkedin.com/in/nicholas-moralez" >
+<a target="_blank" rel="noopener" href="https://linkedin.com/in/nicholas-moralez" >
 <img src="https://img.shields.io/badge/linkedin:  Nick M.-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 <br>
 
 <li>
-<a target="_blank" href="mailto:nick4sites@gmail.com" target="_blank">
+<a target="_blank" rel="noopener" href="mailto:nick4sites@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Nick M.-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>

@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![CSharp](https://img.shields.io/badge/-C-05122A?style=flat&logo=adobe-c-sharp)
+![CSharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 <br>
 
 - **Extras**:
